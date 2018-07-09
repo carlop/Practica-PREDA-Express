@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=distanciaGasolineras\ distanciaSinRepostar\ numeroGasolineras
+comment0.target=Gasolineras(java.lang.Integer[],\ int,\ int)
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=traza
+comment1.target=java.lang.String\ getResultadosGasolineras(java.lang.Boolean)
+comment1.text=\r\n\ Algoritmo\ Voraz\ que\ resuelve\ el\ problema\r\n\ @param\ traza\r\n\ @return\ Resultado\ de\ aplicar\ el\ algoritmo\r\n
+comment2.params=
+comment2.target=void\ compruebaDatos()
+comment2.text=\r\n\ Comprueba\ que\ los\ datos\ son\ correctos\r\n
+numComments=3
